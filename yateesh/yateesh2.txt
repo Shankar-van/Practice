@@ -1,1 +1,1 @@
-Git Bash is an application for Microsoft Windows that provides an emulation layer for a Git command line experience. It brings the powerful functionalities of Unix-based systems to Windows, making it easier for developers to manage and control their projects
+Git Bash is an application for Microsoft Windows that provides an emulation layer for a Git command line experience. It brings the powerful functionalities of Unix-based systems to Windows, making it easier for developers to manage and control their projects Dnbsdn z 
